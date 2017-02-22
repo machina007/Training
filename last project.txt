@@ -1,0 +1,5 @@
+in my last project i worked with allstate insurance.
+in this i worked on a project TRUSTED ADVISOR.
+in this we have three steps.as th first steps states the consumer gives the rewuired information like street adresss number zipcode etc.
+in the second using this Adress standardization service it is webservice call which creates a unique pb key.We make an RESTFUL service call using this unique PB key and core logic for Propety Prefill Information and later this is send into rating engine for Excess premium coverages.
+in the ulimate step we use some api to reports claims in which we do payments auto renewals and date to be done and validations of payment options.
